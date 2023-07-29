@@ -1,0 +1,11 @@
+.pokemon {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.type-flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
